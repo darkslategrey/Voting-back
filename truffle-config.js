@@ -66,4 +66,6 @@ module.exports = {
       version: "0.8.17", // Fetch exact version from solc-bin
     },
   },
+
+  test_directory: "truffle-test",
 };
