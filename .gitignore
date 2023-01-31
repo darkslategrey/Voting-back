@@ -17,3 +17,4 @@ artifacts
 deployments
 .env
 dist
+build
