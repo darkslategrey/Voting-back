@@ -6,7 +6,7 @@ require("hardhat-gas-reporter");
 require("solidity-coverage");
 
 const PK = process.env.PK || "";
-const GOERLI_URL = process.env.GOERLI_URL || "";
+const GOERLI_URL = process.env.GOERLI || "";
 const ETHERSCAN = process.env.ETHERSCAN || "";
 
 module.exports = {
