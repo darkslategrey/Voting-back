@@ -1,6 +1,6 @@
 # Voting Dapp
 
-Live demo at https://voting-front-pr2i4kiut-darkslategrey.vercel.app/
+Live demo at https://voting-front-102xftsuj-darkslategrey.vercel.app/
 
 ## Stack
 
@@ -46,14 +46,16 @@ https://www.loom.com/share/85db952ca91f4c3484cffe9c3165083e
 
 https://www.loom.com/share/3380096d0d00471fbe302bf0b67da8d3
 
-##### End voting session and compute winner
+##### End voting session and compute winner (localhost)
 
 https://www.loom.com/share/6b83a4848e914a2095276f0b0bf7ad9f
 
-##### Show winner
+##### Show winner (localhost)
 
 https://www.loom.com/share/0b43effaee4d43db91e7f2446af7e126
 
 ## Bugs on live demo
 
 When the vote session is open, the dapp does not recognize registered voters when they want to vote.
+Then the voter cannot see proposals for voting.
+For this reason I finnished tests on my localhost
