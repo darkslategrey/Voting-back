@@ -26,15 +26,33 @@ truffle test
 
 ## Videos
 
-- Add Voter
-- Start proposal registration
-- Add proposal
-- End proposal registration
-- Start voting session
-- Voter vote
-- End voting session
-- Compute winner
-- Show winner
+##### Add Voter
+
+https://www.loom.com/share/7073a522374647619475a880951a18d5
+
+##### Start proposal registration
+
+https://www.loom.com/share/9a5bde7269024f17ad0eb81039efcd43
+
+##### Add proposal
+
+https://www.loom.com/share/610bcd1ea7534bb8baa4c9608e4ced07
+
+##### End proposal registration
+
+https://www.loom.com/share/85db952ca91f4c3484cffe9c3165083e
+
+##### Start voting session and voter vote (localhost)
+
+https://www.loom.com/share/3380096d0d00471fbe302bf0b67da8d3
+
+##### End voting session and compute winner
+
+https://www.loom.com/share/6b83a4848e914a2095276f0b0bf7ad9f
+
+##### Show winner
+
+https://www.loom.com/share/0b43effaee4d43db91e7f2446af7e126
 
 ## Bugs on live demo
 
